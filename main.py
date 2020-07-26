@@ -22,6 +22,8 @@ word_counts = {
   'Insanity': 2
 }
 
+word_counts['digital'] = 1
+print(list(word_counts.values()))
 #dict.items()
 #print(list(word_counts.items()))
 
@@ -29,4 +31,4 @@ word_counts = {
 #print(list(word_counts.keys()))
 
 #dict.values()
-print(list(word_counts.values()))
+#print(list(word_counts.values()))
